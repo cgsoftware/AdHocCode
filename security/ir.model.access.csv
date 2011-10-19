@@ -1,0 +1,3 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+"access_product_costiacc","product.costiacc","model_product_costiacc",,1,1,1,1
+"access_product_tipocosti","product.tipocosti","model_product_tipocosti",,1,1,1,1
